@@ -3,14 +3,20 @@ This is a React-based Meme Generator web application that allows users to create
 
 Key Features:
 **API Integration**: Fetch meme templates from a meme image API.
+
 **Custom Text Input**: Add and position top and bottom text on the selected image.
+
 **Text Styling**: Customize text with adjustable font size, color, and position.
+
 **Real-Time Preview**: Instantly see how your meme looks as you edit it.
+
 **Responsive Design**: Optimized for various screen sizes and devices.
 
 Tech Stack:
 **React**: Frontend framework for building user interfaces.
+
 **API**: External meme API to fetch images.
+
 **CSS**: For styling and responsive design.
 
 Future Scope:
